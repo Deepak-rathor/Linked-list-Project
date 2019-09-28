@@ -28,4 +28,5 @@ tail->link=NULL;
 int main(){
 list obj;
 obj.insert(15);
+  obj.insert(20);
 }
